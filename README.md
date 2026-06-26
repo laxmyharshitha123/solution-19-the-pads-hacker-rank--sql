@@ -1,0 +1,1 @@
+# solution-19-the-pads-hacker-rank--sql
